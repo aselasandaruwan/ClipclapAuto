@@ -11,7 +11,7 @@ pkg update && upgrade
 
 pkg install git
 
-git clone https://github.com/HackerR023/ClipclapAuto.git
+git clone https://github.com/RazorKenway/ClipclapAuto.git
 
 cd ClipclapAuto
 
